@@ -6,11 +6,8 @@
 #  link del sitio.
 Mi portafolio:
 https://abigail-aramayo.github.io/tp1-mi-sitio/
-
-
 #  Descripción
 Primer proyecto web con estructura semántica.
-
 ## Tecnologías usadas
 * HTML5 
 * CSS3
